@@ -8,7 +8,7 @@ Neste projeto, eu trabalhei em um jogo clássico chamado Campo Minado, Você ver
 
 # Preview:
 
-...
+![Campominado](https://user-images.githubusercontent.com/101753554/177085275-3a307457-f4fb-411c-a27f-1499cfc9bc72.png)
 
 
 
